@@ -81,3 +81,10 @@ plt.show()
 # --- Sonuçları Kaydetme ---
 df.to_csv('outputs/Salary_Analysis_Output.csv', index=False)
 df.to_excel('outputs/Salary_Analysis_Output.xlsx', index=False)
+
+# --- Temizlenmiş Veriyi Kaydet ---
+output_path = r"C:\Users\irem\OneDrive\Masaüstü\exe\Salary-Data-Analysis\Salary_Analysis_Output.csv"
+
+df.to_csv(output_path, index=False)
+print(f"Temizlenmiş veri başarıyla kaydedildi: {output_path}")
+
