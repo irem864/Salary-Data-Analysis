@@ -1,4 +1,4 @@
-## ![Satış Analizi Grafiği](outputs/figures/salary_analysis.png)
+## ![Satış Analizi Grafiği](outputs/figures/salary_distribution.png)
 
 
 # Salary Data Analysis / Maaş Verisi Analizi
