@@ -1,3 +1,6 @@
+## ![Satış Analizi Grafiği](outputs/figures/salary_analysis.png)
+
+
 # Salary Data Analysis / Maaş Verisi Analizi
 
 Bu proje, bir şirketin çalışan maaş verilerini analiz etmek için Python kullanılarak yapılmıştır.  
