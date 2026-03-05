@@ -1,6 +1,6 @@
-## ![  Maaş Dağılımı / Salary Distribution]
+![Maaş Dağılımı / Salary Distribution](outputs/figures/salary_distribution.png)
 
-(outputs/figures/salary_distribution.png)
+# Salary Data Analysis / Maaş Verisi Analizi
 
 
 # Salary Data Analysis / Maaş Verisi Analizi
